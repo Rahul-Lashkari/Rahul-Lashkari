@@ -7,5 +7,5 @@
 🚀 **Stack~** 
 
 <div align="left">
-<img src="https://skillicons.dev/icons?i=figma,html,css,js,java,python,c,cpp,mysql,nodejs" alt="Tech Stack" />
+<img src="https://skillicons.dev/icons?i=figma,html,css,js,java,python,mysql,c,cpp,nodejs" alt="Tech Stack" />
 </div>
