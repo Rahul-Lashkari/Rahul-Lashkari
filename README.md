@@ -8,5 +8,5 @@ Unfortunately, I couldn’t attend due to the 18+ age limit.
 🛰️**Stack~** 
 
 <div align="left">
-<img src="https://skillicons.dev/icons?i=figma,html,css,js,java,python,mysql,c,cpp,nodejs" alt="Tech Stack" />
+<img src="https://skillicons.dev/icons?i=figma,html,css,js,java,python,c,mysql,mongodb,express,nodejs" alt="Tech Stack" />
 </div>
